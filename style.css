@@ -1,0 +1,16 @@
+body {
+	background: #00A2F1;
+	color: #fff;
+}
+a {
+	color: #fff;
+}
+h1 {
+	line-height: 100px;
+}
+h2, h3 {
+	line-height: 50px;
+}
+.buttons {
+	margin-top: 50px;
+}
